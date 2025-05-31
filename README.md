@@ -1,4 +1,4 @@
-# caromscore_app
+# Caromscore App
 Issues and comments on the Caromscore App at caromscore.com
 
 ## Description
